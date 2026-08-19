@@ -36,7 +36,3 @@ The primary objective of this project is to clean, transform, and visualize mult
 
 ---
 
-
-│   └── Dashboard_Screenshot.png    # High-resolution dashboard screenshot
-│
-└── README.md                       # Main documentation
